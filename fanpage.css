@@ -1,0 +1,29 @@
+#ftstyle {
+    border: 15px solid slategray;
+}
+
+h1, h2, h3, h4 {
+    text-align: center;
+    color: azure;
+    background-color: slategrey;
+}
+
+table {
+    width:100%;
+  }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+th, td, caption {
+    padding: 15px;
+    text-align: left;
+    background-color: slategray
+  }
+ caption {
+     text-align: center;
+     font-size: 15px;
+     font-style: oblique;
+ }
+ 
+
